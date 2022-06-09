@@ -4,9 +4,17 @@
 # Passo a Passo
 
 ## Criação de Novo Repositório
-> Como base para a criação de um novo repositório no GitHub, hovue a criação de um usuário novo (pandora-dartibale);
-> Dentro do site do GitHub, canto direito no ícone Sinal de positivo ( + ), cliquei em New Repository;
-> Nomeando o repositório com dio-desafio-github-primeiro-repositorio (sem caracteres especiais);
+Como base para a criação de um novo repositório no GitHub, hovue a criação de um usuário novo (pandora-dartibale);
+
+
+&nbsp;
+
+Dentro do site do GitHub, canto direito no ícone Sinal de positivo ( + ), cliquei em New Repository;
+
+
+&nbsp;
+
+Nomeando o repositório com dio-desafio-github-primeiro-repositorio (sem caracteres especiais);
 Inserindo uma descrição e mantendo o reposiório público;
 Selecionado o checkbox Add a README file;
 Clicando em Create repository.
